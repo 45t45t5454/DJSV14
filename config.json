@@ -1,0 +1,15 @@
+{
+  "PREFIX": "",
+  "MESSAGES": {
+    "COOLDOWN_MESSAGE": "5s"
+  },
+  "COLORS": {
+    "PURPLE": "#9269ff",
+    "RED": "Red"
+  },
+  "EMOJIS": {
+    "SUCCESS": "✅",
+    "ERROR": "❌"
+  },
+  "OWNERS": [""]
+}
